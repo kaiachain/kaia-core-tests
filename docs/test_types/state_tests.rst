@@ -6,7 +6,7 @@ General State Tests
 The state tests aim is to test the basic workings of the state in isolation.
 
 =================== ==============================================================
-Location            `/GeneralStateTests <https://github.com/klaytn/klaytn-tests/tree/master/GeneralStateTests>`_
+Location            `/GeneralStateTests <https://github.com/kaiachain/kaia-core-tests/tree/main/GeneralStateTests>`_
 Supported Hardforks ``Byzantium``
 Status              Actively supported
 =================== ==============================================================

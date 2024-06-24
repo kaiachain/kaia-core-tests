@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-Thank you for your interest in contributing to klaytn-tests. As an open source project, klaytn-tests is always open to the developer community and we welcome your contribution. Please read the guideline below and follow it in all interactions with the project.
+Thank you for your interest in contributing to kaia-core-tests. As an open source project, kaia-core-tests is always open to the developer community and we welcome your contribution. Please read the guideline below and follow it in all interactions with the project.
 
 ## How to Contribute
 
@@ -21,22 +21,22 @@ There are various ways to contribute and participate. Please read the guidelines
 
 ### Issues and Bugs
 
-If you find a bug or other issues in klaytn-tests, please [submit an issue](https://github.com/klaytn/klaytn-tests/issues). Before submitting an issue, please invest some extra time to figure out that:
+If you find a bug or other issues in kaia-core-tests, please [submit an issue](https://github.com/kaiachain/kaia-core-tests/issues). Before submitting an issue, please invest some extra time to figure out that:
 
 - The issue is not a duplicate issue.
-- The issue has not been fixed in the latest release of klaytn-tests.
-Please do not use the issue tracker for personal support requests. Use developer@klaytn.com for the personal support requests.
+- The issue has not been fixed in the latest release of kaia-core-tests.
+Please do not use the issue tracker for personal support requests. Use developer@kaia.io for the personal support requests.
 
 When you report a bug, please make sure that your report has the following information.
 - Steps to reproduce the issue.
 - A clear and complete description of the issue.
 - Code and/or screen captures are highly recommended.
 
-After confirming your report meets the above criteria, [submit the issue](https://github.com/klaytn/klaytn-tests/issues). Please use [labels](#usage-of-labels) to categorize your issue.
+After confirming your report meets the above criteria, [submit the issue](https://github.com/kaiachain/kaia-core-tests/issues). Please use [labels](#usage-of-labels) to categorize your issue.
 
 ### Feature Requests
 
-You can also use the [issue tracker](https://github.com/klaytn/klaytn-tests/issues) to request a new feature or enhancement. Note that any code contribution without an issue link will not be accepted. Please submit an issue explaining your proposal first so that Klaytn community can fully understand and discuss the idea. Please use [labels](#usage-of-labels) for your feature request as well.
+You can also use the [issue tracker](https://github.com/kaiachain/kaia-core-tests/issues) to request a new feature or enhancement. Note that any code contribution without an issue link will not be accepted. Please submit an issue explaining your proposal first so that Kaia community can fully understand and discuss the idea. Please use [labels](#usage-of-labels) for your feature request as well.
 
 #### Usage of Labels
 
@@ -67,6 +67,6 @@ Status of closed issues:
 
 ## Contributor License Agreement (CLA)
 
-Keep in mind when you submit your pull request, you'll need to sign the CLA via [CLA-Assistant](https://cla-assistant.io/klaytn/klaytn-tests) for legal purposes. You will have to sign the CLA just one time, either as an individual or corporation.
+Keep in mind when you submit your pull request, you'll need to sign the CLA via [CLA-Assistant](https://cla-assistant.io/kaiachain/kaia-core-tests) for legal purposes. You will have to sign the CLA just one time, either as an individual or corporation.
 
 You will be prompted to sign the agreement by CLA Assistant (bot) when you open a Pull Request for the first time.

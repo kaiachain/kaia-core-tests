@@ -1,5 +1,5 @@
-KLAYTN_TEST_PATH=$(CURDIR)
-export KLAYTN_TEST_PATH
+KAIA_TEST_PATH=$(CURDIR)
+export KAIA_TEST_PATH
 
 # TODO: stop stripping out stEWASMTests from gs_tests
 tx_tests:=$(wildcard TransactionTests/*)
