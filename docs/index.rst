@@ -1,9 +1,9 @@
-.. _klaytn_tests:
+.. _kaia_tests:
 
 ############
-Klaytn Tests
+Kaia Tests
 ############
-| Common tests for all clients to test against. The `git repo <https://github.com/klaytn/klaytn-tests>`_ updated regulary with new tests.
+| Common tests for all clients to test against. The `git repo <https://github.com/kaiachain/kaia-core-tests>`_ updated regulary with new tests.
 | This section describes basic test concepts and templates.
 
 .. note::

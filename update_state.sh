@@ -2,7 +2,7 @@
 
 # Description
 # This script updates values of "hash" and "logs" in *.json files if `make test` fails.
-# This is useful when you change default behaviors of Klaytn.
+# This is useful when you change default behaviors of Kaia.
 # 
 # How to use
 # $ ./update_state.sh

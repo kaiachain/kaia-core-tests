@@ -6,7 +6,7 @@ Transaction Tests
 Describes a complete transaction and its `RLP <https://github.com/ethereum/wiki/wiki/RLP>`_ representation using the .json file.
 
 =================== ==============================================================
-Location            `/TransactionTests <https://github.com/klaytn/klaytn-tests/tree/master/TransactionTests>`_
+Location            `/TransactionTests <https://github.com/kaiachain/kaia-core-tests/tree/main/TransactionTests>`_
 Supported Hardforks ``Byzantium``
 Status              Actively supported
 =================== ==============================================================
