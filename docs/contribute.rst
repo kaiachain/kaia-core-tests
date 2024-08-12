@@ -6,7 +6,7 @@ Contribute to Docs
 This documentation has been build using the Python `Sphinx <http://www.sphinx-doc.org/>`_
 documentation tool.
 
-Since the `Klaytn tests <https://github.com/klaytn/klaytn-tests>`_ repository is very
+Since the `Kaia tests <https://github.com/kaiachain/kaia-core-tests>`_ repository is very
 large to clone locally, a convenient way to contribute to the documentation is to 
 make a fork of the test repo, add the changes online with the GitHub 
 `reStructuredText <http://www.sphinx-doc.org/en/stable/rest.html>`_ editor

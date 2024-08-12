@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# Klaytn Tests documentation build configuration file, created by
+# Kaia Tests documentation build configuration file, created by
 # sphinx-quickstart on Mon Aug 28 19:37:19 2017.
 #
 # This file is execfile()d with the current directory set to its
@@ -46,9 +46,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'Klaytn Tests'
-copyright = '2018, Klaytn Community'
-author = 'Klaytn Community'
+project = 'Kaia Tests'
+copyright = '2024, Kaia DLT Foundation'
+author = 'Kaia Community'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -115,7 +115,7 @@ html_sidebars = {
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'KlaytnTestsdoc'
+htmlhelp_basename = 'KaiaTestsdoc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -142,8 +142,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'KlaytnTests.tex', 'Klaytn Tests Documentation',
-     'Klaytn Community', 'manual'),
+    (master_doc, 'KaiaTests.tex', 'Kaia Tests Documentation',
+     'Kaia Community', 'manual'),
 ]
 
 
@@ -152,7 +152,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'klaytntests', 'Klaytn Tests Documentation',
+    (master_doc, 'kaiatests', 'Kaia Tests Documentation',
      [author], 1)
 ]
 
@@ -163,8 +163,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'KlaytnTests', 'Klaytn Tests Documentation',
-     author, 'KlaytnTests', 'One line description of project.',
+    (master_doc, 'KaiaTests', 'Kaia Tests Documentation',
+     author, 'KaiaTests', 'One line description of project.',
      'Miscellaneous'),
 ]
 

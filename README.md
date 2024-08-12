@@ -1,15 +1,7 @@
-[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
-
-# NO LONGER MAINTAINED
-
-Since the launch of Kaia Blockchain this repository has been parked in favour of the new open-source projects in [Kaia's Github](https://github.com/kaiachain). Contributors have now moved there continuing with massive open-source contributions to our blockchain ecosystem. A big thank you to everyone who has contributed to this repository. For more information about Klaytn's chain merge with Finschia blockchain please refer to the launching of Kaia blockchain - [kaia.io](https://kaia.io/).
-
----
-
-Klaytn tests
+Kaia tests
 ============
 
-Common tests for Klaytn clients.
+Common tests for Kaia clients.
 
 
 Documentation
@@ -39,7 +31,7 @@ Test files in the folders below are currently used for testing:
 NOTE: Originally BlockchainTests, GeneralStateTests, TransactionTests, and VMTests
 were created by the testFillers which could be found at
 https://github.com/ethereum/cpp-ethereum/tree/develop/test/tools/jsontests at
-src folder.  However, Klaytn tests currently cannot use the testFillers.  We
+src folder.  However, Kaia tests currently cannot use the testFillers.  We
 will make our own filler specification and testFillers.
 
 
@@ -47,8 +39,8 @@ How to use test set
 -------------------
 
 To use this test set, you need to clone this repository or make a symbolic link
-inside `tests` of https://github.com/klaytn/klaytn/ as `testdata`.
-For details, see https://github.com/klaytn/klaytn/blob/master/tests/README.md.
+inside `tests` of https://github.com/kaiachain/kaia/ as `testdata`.
+For details, see https://github.com/kaiachain/kaia/blob/main/tests/README.md.
 
 
 Test set sanitation

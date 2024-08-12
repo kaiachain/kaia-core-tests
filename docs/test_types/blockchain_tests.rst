@@ -6,9 +6,9 @@ Blockchain Tests
 The blockchain tests aim is to test the basic verification of a blockchain.
 
 =================== ==============================================================
-Location            `/BlockchainTests <https://github.com/klaytn/klaytn-tests/tree/master/BlockchainTests>`_
+Location            `/BlockchainTests <https://github.com/kaiachain/kaia-core-tests/tree/main/BlockchainTests>`_
 Supported Hardforks ``Byzantium``
-Status              Disabled due to the changes in Klaytn's block header
+Status              Disabled due to the changes in Kaia's block header
 =================== ==============================================================
 
 A blockchain test is based around the notion of executing a list of single blocks,

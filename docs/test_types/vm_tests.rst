@@ -7,7 +7,7 @@ The VM tests aim is to test the basic workings of the VM in
 isolation.
 
 =================== ==============================================================
-Location            `/VMTests <https://github.com/klaytn/klaytn-tests/tree/master/VMTests>`_
+Location            `/VMTests <https://github.com/kaiachain/kaia-core-tests/tree/main/VMTests>`_
 Supported Hardforks ``Byzantium``
 Status              Actively supported
 =================== ==============================================================

@@ -7,7 +7,7 @@ Describes an **RLP** (https://github.com/ethereum/wiki/wiki/RLP) encoding using
 the .json file.
 
 =================== ==============================================================
-Location            `/RLPTests <https://github.com/klaytn/klaytn-tests/tree/master/RLPTests>`_
+Location            `/RLPTests <https://github.com/kaiachain/kaia-core-tests/tree/main/RLPTests>`_
 Supported Hardforks Hardfork-independent
 Status              Actively supported
 =================== ==============================================================
